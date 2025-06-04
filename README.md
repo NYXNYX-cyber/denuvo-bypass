@@ -46,5 +46,5 @@
 <hr><ul>
 <li>Projek ini dibuat oleh Handika PWX</li>
 </ul><ul>
-<li>Terimaksih kepada tim Anti Denuvo Sanctuary yang telah menyediakan forum diskusi dan file yang di butuhkan untuk projek ini</li>
+<li>Terimaksih kepada tim Anti Denuvo Sanctuary dan juga Cysaw yang telah menyediakan forum diskusi dan file yang di butuhkan untuk projek ini</li>
 </ul>
